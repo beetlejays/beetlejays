@@ -1,8 +1,6 @@
 # JAY MILLEDGE 🤓
 
-Hi there! I like **coding** 💻 
-
-I don´t have many stats yet, but I´m working on it :) 
+Hi there! I enjoy **coding** 💻 
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=beetlejays&count_private=true&show_icons=true&hide=contribs)
 
