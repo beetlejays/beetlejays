@@ -3,7 +3,7 @@
 Currently I am a Trainee at [Neue Fische](https://www.neuefische.de) on the road to becoming a web developer 💻 
 When I´m not coding, I enjoy:
 
-- Any kind of sports
+- Any kind of sports :runner:
 - Being outdoors
 - Reading about tech stuff and being a nerd
 - Enjoying the company of friends
