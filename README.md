@@ -6,6 +6,7 @@ When I´m not coding, I enjoy:
 - Any kind of sports :runner: :muscle: :basketball:
 - Being outdoors :sunglasses:
 - Reading about tech stuff and being a nerd :computer: :camera: 
+- Movies and podcasts
 - Enjoying the company of friends :raised_hands:
 - Having the occasional BBQ :)
 
