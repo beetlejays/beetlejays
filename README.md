@@ -1,6 +1,6 @@
 # Hi there I am Jay 🤓
 
-Currently I am a Trainee at [Neue Fische](https://www.neuefische.de) on the road to becoming a web developer 💻 
+On the road to becoming an awesome web developer 💻 
 When I´m not coding, I enjoy:
 
 - Any kind of sports :runner: :muscle: :basketball:
