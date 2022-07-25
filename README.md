@@ -1,7 +1,9 @@
 # Hi there I am Jay 🤓
 
-On the road to becoming an awesome web developer 💻. I´ve been working as a Mediadesigner for over 12+ years. 
-Check out my current projects! When I´m not coding, I enjoy:
+and I am a Junior Web Developer 💻 - a design mediadesign senior and movie nerd.
+Check out my current watchlist project: [mov.me]()https://github.com/beetlejays/capstone-project 
+
+When I´m not coding, I enjoy:
 
 - Any kind of sports :runner: :muscle: :basketball:
 - Being outdoors :sunglasses:
