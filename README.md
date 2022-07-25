@@ -10,10 +10,12 @@ When I´m not coding, I enjoy:
 - Enjoying the company of friends :raised_hands:
 - Having the occasional BBQ :)
 
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=beetlejays&count_private=true&show_icons=true&hide=contribs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beetlejays&theme=react&show_icons=true)
+
+
 
 And here is some experience what I have been working on recently.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetlejays&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetlejays&react&layout=compact)
 
 
