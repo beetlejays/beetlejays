@@ -1,7 +1,7 @@
 # Hi there I am Jay 🤓
 
-On the road to becoming an awesome web developer 💻 
-When I´m not coding, I enjoy:
+On the road to becoming an awesome web developer 💻. I´ve been working as a Mediadesigner for over 12+ years. 
+Check out my current projects! When I´m not coding, I enjoy:
 
 - Any kind of sports :runner: :muscle: :basketball:
 - Being outdoors :sunglasses:
