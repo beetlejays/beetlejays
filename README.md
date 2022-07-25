@@ -18,4 +18,7 @@ And here is some experience what I have been working on recently.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetlejays&react&layout=compact)
 
+I enjoy working with: 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,sass,vscode,php)](https://skillicons.dev)
 
