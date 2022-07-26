@@ -1,7 +1,7 @@
 # Hi there I am Jay 🤓
 
 and I am a Junior Web Developer 💻 - a design mediadesign senior and movie nerd.
-Check out my current watchlist project: [mov.me]()https://github.com/beetlejays/capstone-project 
+Check out my current watchlist project: [mov.me](https://movme.vercel.app)
 
 When I´m not coding, I enjoy:
 
