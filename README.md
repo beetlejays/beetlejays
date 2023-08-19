@@ -1,4 +1,4 @@
-# Hi there I am Jay 🤓
+# Hi there I´m Jay 🤓
 
 and I am a Web Developer 💻 - a design mediadesign senior and movie nerd.
 
