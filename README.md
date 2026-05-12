@@ -13,6 +13,5 @@ When I´m not coding, I enjoy:
 
 And here is some experience what I have been working on recently.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beetlejays&react&layout=compact)
 
 
