@@ -1,6 +1,6 @@
 # Hi there I´m Jay 🤓
 
-and I am a Developer 💻 - a design mediadesign senior and movie nerd.
+and I am a Developer 💻 - a UX/UI senior and movie nerd.
 
 When I´m not coding, I enjoy:
 
